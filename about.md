@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: A propos
 permalink: /about/
 ---
 Je m'appelle Arnaud Bletterer, je suis doctorant en Automatique, Traitement du Signal et des Images.
