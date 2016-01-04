@@ -3,13 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
+Je m'appelle Arnaud Bletterer, je suis doctorant en Automatique, Traitement du Signal et des Images.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Ce blog est ma propriété, et les propos que j'y tiens ne reflètent que mon opinion sur les sujets abordés.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Vous trouverez ici :
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+* Ma page GitHub : {% include icon-github.html username="abletterer" %}
+* Ma page professionnelle : [Test][i3s-blettere]
+
+
+[i3s-blettere]: http://i3s.unice.fr/~blettere
