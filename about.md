@@ -10,7 +10,7 @@ Ce blog est ma propriété, et les propos que j'y tiens ne reflètent que mon op
 Vous trouverez ici :
 
 * Ma page GitHub : {% include icon-github.html username="abletterer" %}
-* Ma page professionnelle : [Test][i3s-blettere]
+* Ma page professionnelle : [I3S][i3s-blettere]
 
 
 [i3s-blettere]: http://i3s.unice.fr/~blettere
